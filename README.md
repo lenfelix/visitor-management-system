@@ -76,7 +76,7 @@ You are now ready to start the development server. Use the following command to 
 php artisan serve
 ```
 
-The Visitor Management System should now be accessible at http://localhost:8000 (or the specified application URL).
+The Visitor Management System should now be accessible at http://localhost:8000 (or the specified application URL). The base URL for the APIs may not work and may need to be changed to your specified URL. 
 
 ## Usage
 
