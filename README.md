@@ -83,8 +83,11 @@ The Visitor Management System should now be accessible at http://localhost:8000 
 Once the application is up and running, you can access the Visitor Management System through a web browser. 
 
 Use the credentials below
+
 Email: john@example.com
+
 Password: password
+
 to start managing visitors.
 
 ## Acknowledgements
